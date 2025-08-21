@@ -4,5 +4,5 @@
 ##### ~~是的,就一点~~
 # 就怪了
 # AND
-## 我喜欢玩MC,三角洲,ROOT
-##### Made with:GYSYHS
+## 我喜欢玩MC,三角洲,ROOT手机
+#### Made with:GYSYHSGH
